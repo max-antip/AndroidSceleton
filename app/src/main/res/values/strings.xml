@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViaSceleton</string>
+    <string name="map_activity">Map sample</string>
+    <string name="offer_req">Make offers request</string>
+    <string name="mes_no_offers">No offers, Bro</string>
+
+</resources>
